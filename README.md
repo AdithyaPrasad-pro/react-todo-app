@@ -35,19 +35,6 @@ Event handling
 Array methods like map and filter
 Dynamic UI updates in React
 
-Project Structure
-
-react-todo-app
-│
-├── public
-├── src
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
-│
-├── package.json
-└── vite.config.js
-
 How It Works
 
 Users can type a task into the input field and add it to the list.
